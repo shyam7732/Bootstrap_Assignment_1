@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background: #212529;
+}
+
+.navbar-brand{
+    color: #fff;
+}
+
+.nav-item a{
+    color: #7b7e80;
+}
